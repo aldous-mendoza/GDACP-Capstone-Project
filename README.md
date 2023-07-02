@@ -94,10 +94,10 @@ Top 5 Starting and Endings Stations for Annual Members
 
 Summary:
 
-| **Casual Riders**            | **Annual Members**            |
-|---------------------------------------------------------------|
-| Bike for leisure purposes     | Bike for commuting purposes   |
-|Spend time biking approximately two times longer than annual members but less frequently | Spend time biking approximately half longer than casual riders but more frequently |
+| **Casual Riders**               | **Annual Members**            |
+|---------------------------      |-----------------------------  |
+| Bike for leisure purposes       | Bike for commuting purposes   |
+| Spend time biking approximately  two times longer than annual members but less frequently | Spend time biking approximately half longer than casual riders but more frequently |
 | Travels more during weekends than weekdays | Travel more during weekdays than weekends |
 | Go to touristy areas like parks and waterfronts | Go to residential, business, and school districts |
 | Prefer biking during spring and summer | Prefer biking during spring and summer |
